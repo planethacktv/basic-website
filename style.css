@@ -1,0 +1,25 @@
+h5 {
+    color: blue;
+}
+h1 {
+    color: rgb(85, 55, 134);
+    font-size: 18px;
+}
+h2 {
+    color: green;
+}
+
+div {
+    background-color: gray; 
+    color: white;
+    padding: 15px;
+}
+
+.header{
+    background: black;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
