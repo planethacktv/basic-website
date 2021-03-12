@@ -1,0 +1,14 @@
+{
+  "name": "basic-website",
+  "version": "1.0.0",
+  "description": "**Software Needed:**\r - VS Code IDE - https://code.visualstudio.com/\r - Browser - Chrome https://www.google.com/chrome/",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
