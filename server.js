@@ -4,8 +4,8 @@ const app = express();
 app.get('/', (req, res) => {
   console.log('Hello world received a request.');
 
-  const target = process.env.TARGET || 'World Again Again!!';
-  res.send(`Hello ${target}!`);
+  const target = process.env.TARGET || 'Mundo!';
+  res.send(`Hola ${target}!`);
 });
 
 const port = process.env.PORT || 8080;
